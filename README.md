@@ -51,8 +51,6 @@ In this project, a program adds several PacMen to the webpage and makes them fol
 
 ## :rocket: Technologies ##
 
-## :rocket: Technologies ##
-
 The following tools were used in this project:
 
 - VS Code (https://code.visualstudio.com)
@@ -60,7 +58,7 @@ The following tools were used in this project:
 
 ## :alien: Road to future improvements ##
 
-Some control over the collisions between the PacMen is desirable, so that each time one PacMen crosses another their paths would be changed. It would also be nice to modify the algorithm that controls the directions of the PacMen so that they wouldn't necessarily follow a rectilinear path, but a random one, for example.
+Some control over the collisions between the PacMen is desirable, so that each time one PacMan crosses another their paths would be changed. It would also be nice to modify the algorithm that controls the directions of the PacMen so that they wouldn't necessarily follow a rectilinear path, but a random one, for example.
 
 ## :white_check_mark: Requirements ##
 
