@@ -46,23 +46,21 @@
 
 ## :dart: About ##
 
-Describe your project
+In this project, a program adds several PacMen to the webpage and makes them follow a randomly set rectilinear path. The PacMen are sensitive to borders, so each time they encounter any of the webpage borders they reverse their direction.
 
-## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+## :rocket: Technologies ##
 
 ## :rocket: Technologies ##
 
 The following tools were used in this project:
 
-- [Expo](https://expo.io/)
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- VS Code (https://code.visualstudio.com)
+- GitHub (https://www.github.com)
+
+## :alien: Road to future improvements ##
+
+Some control over the collisions between the PacMen is desirable, so that each time one PacMen crosses another their paths would be changed. It would also be nice to modify the algorithm that controls the directions of the PacMen so that they wouldn't necessarily follow a rectilinear path, but a random one, for example.
 
 ## :white_check_mark: Requirements ##
 
