@@ -55,6 +55,8 @@ The following tools were used in this project:
 
 - VS Code (https://code.visualstudio.com)
 - GitHub (https://www.github.com)
+- Git (https://git-scm.com/)
+- Node (https://nodejs.org/en/)
 
 ## :alien: Road to future improvements ##
 
