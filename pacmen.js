@@ -1,7 +1,7 @@
 var pos = 0;
     const pacArray = [
-        ['PacMan1.png', 'PacMan2.png'],
-        ['PacMan3.png', 'PacMan4.png']
+        ['images/PacMan1.png', 'images/PacMan2.png'],
+        ['images/PacMan3.png', 'images/PacMan4.png']
     ];
     var direction = 0;
     const pacMen = []; // This array holds all the pacmen
@@ -62,8 +62,6 @@ var pos = 0;
             item.position.y + item.velocity.y < 0) {
                 item.velocity.y = -item.velocity.y;
         }
-        // detect collision with all walls and make pacman bounce
-        //
     } 
 
     function makeOne() {
