@@ -46,7 +46,7 @@
 
 ## :dart: About ##
 
-In this project, a program adds several PacMen to the webpage and makes them follow a randomly set rectilinear path. The PacMen are sensitive to borders, so each time they encounter any of the webpage borders they reverse their direction.
+In this project, a button is used to add an indefinite number of PacMen to the webpage, and another to make them follow a randomly set rectilinear path. The PacMen are sensitive to borders, so each time they encounter any of the webpage borders they reverse their direction.
 
 
 ## :rocket: Technologies ##
